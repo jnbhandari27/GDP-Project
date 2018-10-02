@@ -1,0 +1,23 @@
+body {
+    background-image: url("html.jpg");
+    background-color: rgb(255,255,255,0.6);
+	background-blend-mode: lighten;
+	background-position: 50% 50%;
+  	background-repeat: no-repeat;
+  	background-size: 100%;
+}
+h1 {
+  font-family: Calibri; 
+  font-size: 4;         
+  font-style: normal; 
+  font-weight: bold; 
+  text-align: center; 
+  text-decoration: underline
+}
+.x {
+	font-size: 3;
+	color: black;
+}
+.container {
+	
+}
